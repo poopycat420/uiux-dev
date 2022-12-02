@@ -1,0 +1,13 @@
+[
+    {"name": "Handstand", "focus": "Push", "type": "Static", "difficulty": "Beginner",  "image": "handstand.png"},
+    {"name": "Full Planche", "focus": "Push", "type": "Static", "difficulty": "Advanced", "image": "planche.png"},
+    {"name": "L-sit", "focus": "Core", "type": "Static", "difficulty": "Beginner", "image": "l-sit.png"},
+    {"name": "Front Lever", "focus": "Pull", "type": "Static", "difficulty": "Intermediate", "image": "front-lever.png"},
+    {"name": "One Arm Chin Up", "focus": "Pull", "type": "Reps", "difficulty": "Intermediate", "image": "oac.png"},
+    {"name": "V-sit", "focus": "Core", "type": "Static", "difficulty": "Intermediate", "image": "v-sit.png"},
+    {"name": "Ring Dips", "focus": "Push", "type": "Reps", "difficulty": "Beginner", "image": "ring-dip.png"},
+    {"name": "Pistol Squat", "focus": "Legs", "type": "Reps", "difficulty": "Beginner", "image": "pistol-squat.png"},
+    {"name": "Muscle Up", "focus": "Pull", "type": "Reps", "difficulty": "Beginner", "image": "muscle-up.png"},
+    {"name": "Handstand Push Up", "focus": "Push", "type": "Reps", "difficulty": "Intermediate", "image": "handstand-pushup.png"},
+    {"name": "Manna", "focus": "Core", "type": "Static", "difficulty": "Advanced", "image": "manna.png"}
+]
